@@ -1,7 +1,7 @@
-#### Olá! 
-##### Me chamo Renan, sou estudante de Ciência da Computação e apaixonado por tecnologia! 
+### Olá! 
+#### Me chamo Renan, sou estudante de Ciência da Computação e apaixonado por tecnologia! 
 
-##### Compartilho aqui projetos pessoais, trabalhos, e meus primeiros passos na TI. Bora acompanharmos juntos esse minha trajetória? 
+#### Compartilho aqui projetos pessoais, trabalhos, e meus primeiros passos na TI. Bora acompanharmos juntos esse minha trajetória? 
 
 <div align="center">
   <a href="https://github.com/Caduaaraujoo">
