@@ -1,5 +1,5 @@
 <h2> &emsp;Olá! </h2>
-<h4> &emsp; Me chamo Renan, sou estudante de Engenharia da Computação e apaixonado por tecnologia e educação! Compartilho aqui projetos pessoais, trabalhos, e meus primeiros passos na TI. Bora acompanhar minha trajetória? </h4> 
+<p> &emsp; Me chamo Renan, sou estudante de Engenharia da Computação e apaixonado por <strong>tecnologia e educação</strong>! Compartilho aqui projetos pessoais, trabalhos, e minha trajetória na TI. Bora acompanhar? </p> 
 
 <div align="center">
   <a href="https://github.com/ArandaCampos">
