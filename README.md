@@ -1,5 +1,5 @@
 <h2> &emsp;Olá! </h2>
-<p> &emsp; Sou professor-assistente, estudante de Engenharia da Computação e apaixonado por <strong>educação &hearts; </strong>! Compartilho aqui projetos pessoais, trabalhos, e minha trajetória na TI. Bora acompanhar? </p> 
+<p> &emsp; Sou professor-assistente, estudante de tecnologia da informação e apaixonado por <strong>educação &hearts; </strong>! Compartilho aqui projetos pessoais, trabalhos, e minha trajetória na TI. Bora acompanhar? </p> 
 
 <div align="center">
   <a href="https://github.com/ArandaCampos">
